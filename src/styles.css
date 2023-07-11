@@ -1,0 +1,22 @@
+@import url('./font.css');
+
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.squared-box {
+	margin: auto;
+	border: 1px solid black;
+	width: 40%;
+}
+
+.arrowed-box {
+	margin: auto;
+	border: 1px solid black;
+	width: 5%;
+}
+
+.Header {
+	font-family: DragonHunter;
+}
