@@ -17,6 +17,14 @@
 	width: 5%;
 }
 
+.extraSpace {
+	border: 10px solid white;
+}
+
+.divider {
+	border: 1px solid black;
+}
+
 .Header {
 	font-family: DragonHunter;
 }
